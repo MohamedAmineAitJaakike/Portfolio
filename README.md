@@ -1,4 +1,4 @@
-# 🚀 Ahmed Dev - Professional Portfolio Website
+# 🚀 MedAmine Dev - Professional Portfolio Website
 
 A **world-class** developer portfolio built for freelance success on international platforms (Upwork, LinkedIn, GitHub).
 
