@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Notes:
+# - Use Git-based deploys (Import from Git) so Netlify can run the build and plugin.
+# - Drag-and-drop of a static folder is supported only for fully static sites (next export -> out), but this project uses the Next.js app router and dynamic features,
+#   so drag-and-drop is not recommended unless you explicitly export a reduced/static version.
